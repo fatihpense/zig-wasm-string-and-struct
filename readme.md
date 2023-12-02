@@ -1,5 +1,7 @@
 # Zig WebAssembly example of passing String and using Struct references in WASM Host language
 
+Here is a Youtube video that explains the example: <https://www.youtube.com/watch?v=dskKJj4qfeo>
+
 The important code and comments reside in `./zig/wasm.zig`
 
 WASM Host (Java) example is in `./java` directory.
